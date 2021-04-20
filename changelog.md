@@ -1,5 +1,6 @@
-
-         ⚙️ The newest updates for Weather will be listed here ⚙️
+       ⚙️ The newest updates for Weather will be listed here ⚙️
           -----------------------------------------------------
 
-V0.1.0
+
+
+[-] V0.1.0
